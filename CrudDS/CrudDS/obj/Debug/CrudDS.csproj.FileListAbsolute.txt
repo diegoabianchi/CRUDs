@@ -1,0 +1,11 @@
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.csproj.AssemblyReference.cache
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.frmDatos.resources
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.Properties.Resources.resources
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.csproj.GenerateResource.cache
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.csproj.CoreCompileInputs.cache
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\bin\Debug\CrudDS.exe.config
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\bin\Debug\CrudDS.exe
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\bin\Debug\CrudDS.pdb
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.exe
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.pdb
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.exe.config
