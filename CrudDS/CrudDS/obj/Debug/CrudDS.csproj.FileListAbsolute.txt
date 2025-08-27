@@ -8,4 +8,5 @@ C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\bin\Debug\CrudDS.exe
 C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\bin\Debug\CrudDS.pdb
 C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.exe
 C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.pdb
+C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.FrmAlumnos.resources
 C:\Users\SBI\source\repos\crudDataSet\CrudDS\CrudDS\obj\Debug\CrudDS.exe.config
