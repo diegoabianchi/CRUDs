@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|c:\\users\\sbi\\source\\repos\\cruds\\crudentityframework\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\presentation\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|solutionrelative:presentation\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\presentation\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|solutionrelative:presentation\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\models\\db.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{33634793-1E7C-4259-973D-254F477F2236}|crudEntityFramework.csproj|solutionrelative:models\\db.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:21:18.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\Presentation\\FrmAlumno.cs",
+              "RelativeDocumentMoniker": "Presentation\\FrmAlumno.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\crudEntityFramework\\Presentation\\FrmAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\crudEntityFramework\\Presentation\\FrmAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:54:02.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\Presentation\\FrmAlumno.cs",
+              "RelativeDocumentMoniker": "Presentation\\FrmAlumno.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\Presentation\\FrmAlumno.cs",
+              "RelativeToolTip": "Presentation\\FrmAlumno.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:57:11.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:40:06.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\CRUDs\\CrudEntityFramework\\Models\\DB.edmx",
+              "RelativeDocumentMoniker": "Models\\DB.edmx",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\crudEntityFramework\\Models\\DB.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\crudEntityFramework\\Models\\DB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-09-09T19:25:05.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

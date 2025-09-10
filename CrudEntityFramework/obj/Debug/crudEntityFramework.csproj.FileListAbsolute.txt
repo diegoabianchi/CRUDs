@@ -1,0 +1,17 @@
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\crudEntityFramework.exe.config
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\crudEntityFramework.exe
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\crudEntityFramework.pdb
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\SBI\source\repos\crudEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.csproj.AssemblyReference.cache
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.Properties.Resources.resources
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.csproj.GenerateResource.cache
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEnti.60F05CF1.Up2Date
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.exe
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.pdb
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.exe.config
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.FrmPrincipal.resources
+C:\Users\SBI\source\repos\crudEntityFramework\obj\Debug\crudEntityFramework.Presentation.FrmAlumno.resources
