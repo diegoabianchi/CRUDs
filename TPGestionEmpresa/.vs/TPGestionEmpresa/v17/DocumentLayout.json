@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\tpgestionempresa\\tpgestionempresa\\db\\proveedoresdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:db\\proveedoresdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\tpgestionempresa\\tpgestionempresa\\editproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:editproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\tpgestionempresa\\tpgestionempresa\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\tpgestionempresa\\tpgestionempresa\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedoresDB.cs",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\DB\\ProveedoresDB.cs",
+              "RelativeDocumentMoniker": "DB\\ProveedoresDB.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\DB\\ProveedoresDB.cs",
+              "RelativeToolTip": "DB\\ProveedoresDB.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwI0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T01:36:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Proveedores.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\Proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T00:27:49.505Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Proveedores.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\Proveedores.cs",
+              "RelativeToolTip": "Proveedores.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T23:29:21.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\EditProveedor.cs",
+              "RelativeDocumentMoniker": "EditProveedor.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\EditProveedor.cs",
+              "RelativeToolTip": "EditProveedor.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T00:12:34.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
