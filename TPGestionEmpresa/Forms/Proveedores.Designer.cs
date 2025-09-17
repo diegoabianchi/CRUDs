@@ -45,6 +45,7 @@
             dataGridProveedores.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridProveedores.Size = new Size(586, 335);
             dataGridProveedores.TabIndex = 0;
+            dataGridProveedores.CellContentClick += dataGridProveedores_CellContentClick;
             // 
             // btnTest
             // 

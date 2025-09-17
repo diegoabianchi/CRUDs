@@ -35,7 +35,7 @@
             // 
             // btnProveedores
             // 
-            btnProveedores.Location = new Point(72, 53);
+            btnProveedores.Location = new Point(91, 62);
             btnProveedores.Name = "btnProveedores";
             btnProveedores.Size = new Size(148, 52);
             btnProveedores.TabIndex = 0;
@@ -45,16 +45,17 @@
             // 
             // btnClientes
             // 
-            btnClientes.Location = new Point(72, 138);
+            btnClientes.Location = new Point(91, 147);
             btnClientes.Name = "btnClientes";
             btnClientes.Size = new Size(148, 52);
             btnClientes.TabIndex = 1;
             btnClientes.Text = "Clientes";
             btnClientes.UseVisualStyleBackColor = true;
+            btnClientes.Click += btnClientes_Click;
             // 
             // btnProductos
             // 
-            btnProductos.Location = new Point(72, 226);
+            btnProductos.Location = new Point(91, 235);
             btnProductos.Name = "btnProductos";
             btnProductos.Size = new Size(148, 52);
             btnProductos.TabIndex = 2;
@@ -65,13 +66,13 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(295, 353);
+            ClientSize = new Size(332, 353);
             Controls.Add(btnProductos);
             Controls.Add(btnClientes);
             Controls.Add(btnProveedores);
             Name = "frmPrincipal";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Menu Principal";
+            Text = "Gestión empresa - Menu Principal";
             ResumeLayout(false);
         }
 

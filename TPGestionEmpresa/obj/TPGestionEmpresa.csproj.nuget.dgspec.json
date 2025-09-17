@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\TPGestionEmpresa.csproj": {}
+    "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\TPGestionEmpresa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\TPGestionEmpresa.csproj": {
+    "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\TPGestionEmpresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\TPGestionEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\TPGestionEmpresa.csproj",
         "projectName": "TPGestionEmpresa",
-        "projectPath": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\TPGestionEmpresa.csproj",
+        "projectPath": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\TPGestionEmpresa.csproj",
         "packagesPath": "C:\\Users\\SBI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SBI\\source\\repos\\TPGestionEmpresa\\TPGestionEmpresa\\obj\\",
+        "outputPath": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

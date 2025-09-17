@@ -108,6 +108,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "FrmEditProveedor";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Agregar / Editar Proveedor";
             ResumeLayout(false);
             PerformLayout();
