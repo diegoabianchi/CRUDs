@@ -12,6 +12,15 @@ namespace TPGestionEmpresa
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new frmPrincipal());
+
+            using (var context = new Models.GestionEmpresaContext())
+            {
+                var listProductos = context.Productos.ToList();
+                foreach (var prod in listProductos)
+                {
+                    Console.WriteLine($"IdProducto: {prod.IdProducto}, Producto: {prod.NombreProducto}, Precio: {prod.Precio}");
+                }
+            }
         }
     }
 }

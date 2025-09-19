@@ -28,58 +28,97 @@
         /// </summary>
         private void InitializeComponent()
         {
-            btnProveedores = new Button();
-            btnClientes = new Button();
-            btnProductos = new Button();
+            menuStrip1 = new MenuStrip();
+            proveedoresToolStripMenuItem = new ToolStripMenuItem();
+            clientesToolStripMenuItem = new ToolStripMenuItem();
+            productosToolStripMenuItem = new ToolStripMenuItem();
+            acercaDeToolStripMenuItem = new ToolStripMenuItem();
+            panelContenedor = new Panel();
+            toolStrip1 = new ToolStrip();
+            menuStrip1.SuspendLayout();
+            panelContenedor.SuspendLayout();
             SuspendLayout();
             // 
-            // btnProveedores
+            // menuStrip1
             // 
-            btnProveedores.Location = new Point(91, 62);
-            btnProveedores.Name = "btnProveedores";
-            btnProveedores.Size = new Size(148, 52);
-            btnProveedores.TabIndex = 0;
-            btnProveedores.Text = "Proveedores";
-            btnProveedores.UseVisualStyleBackColor = true;
-            btnProveedores.Click += btnProveedores_Click;
+            menuStrip1.Items.AddRange(new ToolStripItem[] { proveedoresToolStripMenuItem, clientesToolStripMenuItem, productosToolStripMenuItem, acercaDeToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(847, 24);
+            menuStrip1.TabIndex = 3;
+            menuStrip1.Text = "menuStrip1";
             // 
-            // btnClientes
+            // proveedoresToolStripMenuItem
             // 
-            btnClientes.Location = new Point(91, 147);
-            btnClientes.Name = "btnClientes";
-            btnClientes.Size = new Size(148, 52);
-            btnClientes.TabIndex = 1;
-            btnClientes.Text = "Clientes";
-            btnClientes.UseVisualStyleBackColor = true;
-            btnClientes.Click += btnClientes_Click;
+            proveedoresToolStripMenuItem.Name = "proveedoresToolStripMenuItem";
+            proveedoresToolStripMenuItem.Size = new Size(84, 20);
+            proveedoresToolStripMenuItem.Text = "Proveedores";
+            proveedoresToolStripMenuItem.Click += proveedoresToolStripMenuItem_Click;
             // 
-            // btnProductos
+            // clientesToolStripMenuItem
             // 
-            btnProductos.Location = new Point(91, 235);
-            btnProductos.Name = "btnProductos";
-            btnProductos.Size = new Size(148, 52);
-            btnProductos.TabIndex = 2;
-            btnProductos.Text = "Productos";
-            btnProductos.UseVisualStyleBackColor = true;
+            clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
+            clientesToolStripMenuItem.Size = new Size(61, 20);
+            clientesToolStripMenuItem.Text = "Clientes";
+            clientesToolStripMenuItem.Click += clientesToolStripMenuItem_Click;
+            // 
+            // productosToolStripMenuItem
+            // 
+            productosToolStripMenuItem.Name = "productosToolStripMenuItem";
+            productosToolStripMenuItem.Size = new Size(73, 20);
+            productosToolStripMenuItem.Text = "Productos";
+            productosToolStripMenuItem.Click += productosToolStripMenuItem_Click;
+            // 
+            // acercaDeToolStripMenuItem
+            // 
+            acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
+            acercaDeToolStripMenuItem.Size = new Size(71, 20);
+            acercaDeToolStripMenuItem.Text = "Acerca de";
+            acercaDeToolStripMenuItem.Click += acercaDeToolStripMenuItem_Click;
+            // 
+            // panelContenedor
+            // 
+            panelContenedor.Controls.Add(toolStrip1);
+            panelContenedor.Dock = DockStyle.Fill;
+            panelContenedor.Location = new Point(0, 24);
+            panelContenedor.Name = "panelContenedor";
+            panelContenedor.Size = new Size(847, 481);
+            panelContenedor.TabIndex = 4;
+            // 
+            // toolStrip1
+            // 
+            toolStrip1.Location = new Point(0, 0);
+            toolStrip1.Name = "toolStrip1";
+            toolStrip1.Size = new Size(847, 25);
+            toolStrip1.TabIndex = 0;
+            toolStrip1.Text = "toolStrip1";
             // 
             // frmPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(332, 353);
-            Controls.Add(btnProductos);
-            Controls.Add(btnClientes);
-            Controls.Add(btnProveedores);
+            ClientSize = new Size(847, 505);
+            Controls.Add(panelContenedor);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
             Name = "frmPrincipal";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Gestión empresa - Menu Principal";
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            panelContenedor.ResumeLayout(false);
+            panelContenedor.PerformLayout();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
-
-        private Button btnProveedores;
-        private Button btnClientes;
-        private Button btnProductos;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem proveedoresToolStripMenuItem;
+        private ToolStripMenuItem clientesToolStripMenuItem;
+        private ToolStripMenuItem productosToolStripMenuItem;
+        private Panel panelContenedor;
+        private ToolStripMenuItem acercaDeToolStripMenuItem;
+        private ToolStrip toolStrip1;
     }
 }

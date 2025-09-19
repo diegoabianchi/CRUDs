@@ -37,7 +37,7 @@
             // 
             // btnEliminar
             // 
-            btnEliminar.Location = new Point(245, 37);
+            btnEliminar.Location = new Point(218, 24);
             btnEliminar.Name = "btnEliminar";
             btnEliminar.Size = new Size(75, 23);
             btnEliminar.TabIndex = 9;
@@ -47,7 +47,7 @@
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(40, 37);
+            btnAgregar.Location = new Point(23, 24);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(75, 23);
             btnAgregar.TabIndex = 7;
@@ -57,17 +57,18 @@
             // 
             // dataGridClientes
             // 
+            dataGridClientes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dataGridClientes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridClientes.Location = new Point(40, 78);
+            dataGridClientes.Location = new Point(23, 65);
             dataGridClientes.Name = "dataGridClientes";
             dataGridClientes.ReadOnly = true;
             dataGridClientes.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridClientes.Size = new Size(719, 335);
+            dataGridClientes.Size = new Size(694, 361);
             dataGridClientes.TabIndex = 5;
             // 
             // btnEditar2
             // 
-            btnEditar2.Location = new Point(138, 37);
+            btnEditar2.Location = new Point(119, 24);
             btnEditar2.Name = "btnEditar2";
             btnEditar2.Size = new Size(75, 23);
             btnEditar2.TabIndex = 11;
@@ -79,7 +80,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(792, 447);
+            ClientSize = new Size(742, 471);
             Controls.Add(btnEditar2);
             Controls.Add(btnEliminar);
             Controls.Add(btnAgregar);

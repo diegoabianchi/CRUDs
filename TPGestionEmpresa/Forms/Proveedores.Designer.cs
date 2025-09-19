@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             dataGridProveedores = new DataGridView();
-            btnTest = new Button();
             btnAgregar = new Button();
             btnEditar = new Button();
             btnEliminar = new Button();
@@ -38,28 +37,18 @@
             // 
             // dataGridProveedores
             // 
+            dataGridProveedores.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dataGridProveedores.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridProveedores.Location = new Point(29, 88);
+            dataGridProveedores.Location = new Point(23, 65);
             dataGridProveedores.Name = "dataGridProveedores";
             dataGridProveedores.ReadOnly = true;
             dataGridProveedores.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridProveedores.Size = new Size(586, 335);
+            dataGridProveedores.Size = new Size(690, 360);
             dataGridProveedores.TabIndex = 0;
-            dataGridProveedores.CellContentClick += dataGridProveedores_CellContentClick;
-            // 
-            // btnTest
-            // 
-            btnTest.Location = new Point(500, 47);
-            btnTest.Name = "btnTest";
-            btnTest.Size = new Size(115, 23);
-            btnTest.TabIndex = 1;
-            btnTest.Text = "Probar Conexión";
-            btnTest.UseVisualStyleBackColor = true;
-            btnTest.Click += btnTest_Click;
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(29, 47);
+            btnAgregar.Location = new Point(23, 24);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(75, 23);
             btnAgregar.TabIndex = 2;
@@ -69,7 +58,7 @@
             // 
             // btnEditar
             // 
-            btnEditar.Location = new Point(123, 47);
+            btnEditar.Location = new Point(119, 24);
             btnEditar.Name = "btnEditar";
             btnEditar.Size = new Size(75, 23);
             btnEditar.TabIndex = 3;
@@ -79,7 +68,7 @@
             // 
             // btnEliminar
             // 
-            btnEliminar.Location = new Point(220, 47);
+            btnEliminar.Location = new Point(218, 24);
             btnEliminar.Name = "btnEliminar";
             btnEliminar.Size = new Size(75, 23);
             btnEliminar.TabIndex = 4;
@@ -91,11 +80,10 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(684, 460);
+            ClientSize = new Size(739, 469);
             Controls.Add(btnEliminar);
             Controls.Add(btnEditar);
             Controls.Add(btnAgregar);
-            Controls.Add(btnTest);
             Controls.Add(dataGridProveedores);
             Name = "Proveedores";
             Text = "Proveedores";
@@ -107,7 +95,6 @@
         #endregion
 
         private DataGridView dataGridProveedores;
-        private Button btnTest;
         private Button btnAgregar;
         private Button btnEditar;
         private Button btnEliminar;

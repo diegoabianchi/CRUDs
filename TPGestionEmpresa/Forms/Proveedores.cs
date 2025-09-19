@@ -95,10 +95,5 @@ namespace TPGestionEmpresa
                 MessageBox.Show("Debe seleccionar un registro");
             }
         }
-
-        private void dataGridProveedores_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
     }
 }

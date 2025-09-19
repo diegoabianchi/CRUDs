@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\forms\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\forms\\editcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\editcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\forms\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\forms\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\dataaccess\\dsclientes.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:dataaccess\\dsclientes.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\forms\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|c:\\users\\sbi\\source\\repos\\lenguajes-de-ultima-generacion\\tpgestionempresa\\forms\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{780561C4-5777-4C4C-BB5B-CD8BED9E0F74}|TPGestionEmpresa.csproj|solutionrelative:forms\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\MenuPrincipal.cs",
+              "RelativeToolTip": "Forms\\MenuPrincipal.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:50:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Forms\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:48:11.232Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Productos.cs",
+              "RelativeDocumentMoniker": "Forms\\Productos.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:48:10.294Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Clientes.cs",
+              "RelativeDocumentMoniker": "Forms\\Clientes.cs",
+              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:48:09.071Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -45,58 +94,8 @@
               "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\MenuPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\MenuPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T21:51:12.601Z",
+              "WhenOpened": "2025-09-19T00:47:59.034Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dsClientes.xsd",
-              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\DataAccess\\dsClientes.xsd",
-              "RelativeDocumentMoniker": "DataAccess\\dsClientes.xsd",
-              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\DataAccess\\dsClientes.xsd",
-              "RelativeToolTip": "DataAccess\\dsClientes.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-09-17T21:48:27.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditCliente.cs",
-              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\EditCliente.cs",
-              "RelativeDocumentMoniker": "Forms\\EditCliente.cs",
-              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\EditCliente.cs",
-              "RelativeToolTip": "Forms\\EditCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T21:45:25.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Clientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Clientes.cs",
-              "RelativeDocumentMoniker": "Forms\\Clientes.cs",
-              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Clientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Clientes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T21:44:37.859Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Clientes.cs",
-              "RelativeDocumentMoniker": "Forms\\Clientes.cs",
-              "ToolTip": "C:\\Users\\SBI\\source\\repos\\lenguajes-de-ultima-generacion\\TPGestionEmpresa\\Forms\\Clientes.cs",
-              "RelativeToolTip": "Forms\\Clientes.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwEkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T21:43:33.549Z",
-              "EditorCaption": ""
             }
           ]
         }
